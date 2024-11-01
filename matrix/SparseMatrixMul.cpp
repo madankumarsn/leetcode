@@ -133,14 +133,14 @@ int main() {
 
     // Define matrices mat1 and mat2
     std::vector<std::vector<int>> mat1 = {
-        {1, 0},
+        {10, 0},
         {0, 2},
         {3, 0}
     };
 
     std::vector<std::vector<int>> mat2 = {
-        {0, 4, 0},
-        {2, 0, 6}
+        {0, 4, 10},
+        {2, 0, 10}
     };
 
     // Perform multiplication
