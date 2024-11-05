@@ -1,4 +1,4 @@
-Result of mat1 * mat2:
-0 40 100 
-4 0 20 
-0 12 30 
+Rotated Image
+7 4 1 
+8 5 2 
+9 6 3 
